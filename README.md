@@ -15,4 +15,4 @@ Android app for check result of rsa key calculation
 <img src="https://raw.githubusercontent.com/Daivy03/RSAKeyResolver-app/main/github-img/preview-ui-app.jpg" width=30% height=30%></img>
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/github/license/Daivy03/RSAKeyResolver-app.svg)](https://opensource.org/licenses/MIT)
