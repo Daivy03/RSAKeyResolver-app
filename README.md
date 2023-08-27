@@ -2,6 +2,7 @@
   
 <h1>RSAKeyResolver-app</h1>
 
+![](http://unmaintained.tech/badge.svg)
 [![Android CI](https://github.com/Daivy03/RSAKeyResolver-app/actions/workflows/android.yml/badge.svg)](https://github.com/Daivy03/RSAKeyResolver-app/actions/workflows/android.yml)
 
 ## Built with
